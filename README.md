@@ -67,10 +67,7 @@ Clone the repo and run the Jupyter notebook:
 
 ```bash
 # Run the main code
-jupyter notebook notebooks/group1_proj_prob-checkpoint.ipynb
-
-# Reproduce all 9 visualisation figures
-python visualization.py
+python group1_proj_prob-checkpoint.py
 ```
 
 ---
@@ -234,8 +231,7 @@ nsl-kdd-anomaly-detection/
 │   │   ├── hypothesis_test_feature_0.jpeg
 │   │   └── comparison_table.jpeg
 │   └── code/
-│       ├── group1_proj_prob-checkpoint.ipynb
-│       └── Visualization.py
+│       └── group1_proj_prob-checkpoint.py
 │
 ├── requirements.txt
 └── README.md
@@ -277,7 +273,7 @@ Potential improvements:
 | **[M Ibrahim Abdullah](https://github.com/Ibrahim5570)** | Statistical Analysis & Anomaly Labeling |
 | **[M Awais](https://github.com/awais-usman)** | Stratified Sampling Design |
 | **[M Shaheer Afzal](https://github.com/ShaheerAfzal)** | Anomaly Detection & Performance Evaluation |
-| M Asjad | Visualisation & Dashboard |
+| **[M Asjad](https://github.com/MrAsjad)** | Visualisation & Dashboard |
 
 **Course:** MATH-361 Probability & Statistics · **Institute:** NUST CEME
 
