@@ -1,0 +1,17 @@
+# NSL-KDD Anomaly Detection Python dependencies
+# Developed on Python 3.10.18
+# Install: pip install -r requirements.txt
+
+# Data handling & preprocessing
+numpy==2.4.4
+pandas==3.0.2
+
+# Statistical analysis & anomaly detection
+scipy==1.17.1
+scikit-learn==1.8.0
+
+# Visualisation
+matplotlib==3.10.8
+
+# Dataset download (Kaggle API)
+kagglehub==1.0.0
